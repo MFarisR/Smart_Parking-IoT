@@ -7,8 +7,8 @@
 
 String Status;
 
-const char* ssid = "ADRIAN"; //ssid network
-const char* password = "muhfaris"; //password network
+const char* ssid = ""; //ssid network
+const char* password = ""; //password network
 
 const char* mqtt_server = "broker.hivemq.com"; //server cloud
 int port = 1883; //port cloud network
